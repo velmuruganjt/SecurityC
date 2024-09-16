@@ -1,0 +1,4 @@
+"AadClientId": "8a9239e0-7a68-4ee5-8d3f-daf54386daae",
+  "AadSecret": "--G8Q~P3~.B_NcRy_-CHlGH_P~ms.ruAcX5Fma2r",
+  "AadTenantDomain": "jticorp.onmicrosoft.com",
+  "AadTenantId": "705d07a3-2eea-4f3b-ab59-65ca29abeb26",
